@@ -4,20 +4,21 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
         <script src="./src/main.js" defer type="module"></script>
         <title>La Casa de Papel</title>
     </head>
     <body>
-        <header>
-            <a href="#"><img src="" alt=""></a>
+        <header class="header">
+            <a href="#"><img src="./src/img/papel.png" alt="Logo la casa de papel"></a>
             <h1>La Casa de Papel</h1>
         </header>
-        <main>
-            <label for="coin-input">Digite a moeda:</label>
+        <main class="container">
+            <label for="coin-input">Ingrese la moneda</label>
             <input id="coin-input" type="text">
-            <button class="search-btn">Pesquisar</button>
+            <button class="search-btn">BUSCAR</button>
 
-            <div>
+            <div class="content-coins">
                 <h2 class="coin-title"></h2>
                 <ul class="coin-list"></ul>
             </div>

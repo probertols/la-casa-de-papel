@@ -1,0 +1,67 @@
+* {
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: rgb(21, 41, 58);
+    color: #fff;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.header h1 {
+    font-size: 3em;
+}
+
+.header img {
+    width: 150px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.container input {
+    width: 250px;
+    height: 50px;
+    font-size: 1.5em;
+    margin: 10px auto;
+}
+
+.content-coins ul {
+    list-style-type: none;
+    display:flex;
+    flex-wrap: wrap;
+
+    margin: 0 auto;
+    
+}
+
+.content-coins ul li {
+    margin: 10px;
+    padding: 20px;
+    width: 150px;
+    background-color: rgb(17, 17, 65);
+    border-radius: 10px;
+}
+
+
+
+.search-btn {
+	color: #000;
+	transition: all 0.5s;
+    margin: 0 auto;
+	height: 50px;
+	text-align: center;
+	width: 250px;
+	cursor: pointer;
+}
