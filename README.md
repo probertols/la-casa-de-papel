@@ -13,4 +13,4 @@ O objetivo desse projeto era consumir uma api e trazer os dados na tela, de mane
 
 
 ---
-⌨️ com ❤️ por [Paulo Roberto] 😊
+⌨ feito com ❤️ por Paulo Roberto 😊
