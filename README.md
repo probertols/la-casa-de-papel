@@ -4,7 +4,7 @@ Um projeto simples consumindo uma api que faz a conversão de 1 moeda para todas
 
 ## 🚀 Tecnologia Utilizada
 
-HTML, CSS e Javascript básicamente
+HTML, CSS e Javascript.
 
 
 ### 🔩 Objetivo
